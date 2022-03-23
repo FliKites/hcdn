@@ -1,0 +1,28 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "hcdn/",
+  "providedBy": { "name": "hCDN", "url": "https://hcdn.hns.is" },
+  "icons": [
+    {
+      "src": "./192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Handshake dCDN",
+  "description": "Host your URL/IP on a decentralized CDN accesible through Hanshake DNS Resolution.",
+  "iconPath": "./256.svg",
+  "short_name": "",
+  "start_url": ".",
+  "theme_color": "#000000",
+  "skylink": ""
+}
