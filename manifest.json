@@ -2,7 +2,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "homepage_url": "hcdn/",
-  "providedBy": { "name": "hCDN", "url": "https://hcdn.hns.is" },
+  "providedBy": { "name": "Klouted", "url": "https://klouted.com" },
   "icons": [
     {
       "src": "./192.png",
@@ -18,10 +18,10 @@
     }
   ],
   "orientation": "portrait",
-  "name": "Handshake dCDN",
+  "name": "hcdn/",
   "description": "Host your URL/IP on a decentralized CDN accesible through Hanshake DNS Resolution.",
   "iconPath": "./256.svg",
-  "short_name": "",
+  "short_name": "Handshake CDN",
   "start_url": ".",
   "theme_color": "#000000",
   "skylink": "AQAhyeJLN1z2PDM0Po-FnN8RiXJi0Vhm90mtJYeTHUJymQ"
