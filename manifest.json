@@ -1,7 +1,7 @@
 {
   "background_color": "#fff",
   "display": "standalone",
-  "homepage_url": "https://hcdn/",
+  "homepage_url": "hcdn/",
   "providedBy": { "name": "hCDN", "url": "https://hcdn/" },
   "icons": [
     {
