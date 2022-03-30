@@ -1,8 +1,8 @@
 {
   "background_color": "#fff",
   "display": "standalone",
-  "homepage_url": "hcdn/",
-  "providedBy": { "name": "hCDN", "url": "https://hcdn/" },
+  "homepage_url": "hcdn",
+  "providedBy": { "name": "Klouted", "url": "https://klouted.com" },
   "icons": [
     {
       "src": "./192.png",
